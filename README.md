@@ -22,4 +22,4 @@ El objetivo es consolidar los conocimientos adquiridos en las etapas previas (1 
 
 1. **Clona el repositorio** (si aún no lo tienes):
    ```bash
-   git clone [https://github.com/zdiazzb/Fundamentos-Python.git](https://github.com/zdiazzb/Fundamentos-Python.git)
+   git clone https://github.com/zdiazzb/Fundamentos-Python.git
