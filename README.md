@@ -20,6 +20,6 @@ El objetivo es consolidar los conocimientos adquiridos en las etapas previas (1 
 
 ## ⚙️ Instrucciones de Ejecución
 
-1. **Clona el repositorio** (si aún no lo tienes):
+1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/zdiazzb/Fundamentos-Python.git
