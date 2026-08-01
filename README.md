@@ -14,6 +14,10 @@ El objetivo es consolidar los conocimientos adquiridos en las etapas previas (1 
     *   Implementación de colores para los textos.
     *   Alineación de salidas (izquierda, derecha y centro).
 
+## 📊 Diagrama de Flujo
+
+![Diagrama de Flujo](Rec/Img/DiagramaFlujo.jpg)
+
 ## 📂 Contenido del Proyecto
 
 *   `2203_Fase5_ZamirDiaz_Problema05.py`: Archivo principal que contiene la lógica de la solución.
